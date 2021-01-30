@@ -61,7 +61,7 @@ input{
     height: 25vh;
     color: white;
     text-align: right;
-    background-color:grey;
-    font-size: 35px;
+    background:rgba(255,255,255,0.5);
+    font-size: 38px;
     font-family: sans-serif;
 }
